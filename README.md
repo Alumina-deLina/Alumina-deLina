@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on some personal projects to gain some experiences in collaborating with others.
 - 📫 How to reach me: alisliu682@gmail.com
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I was a physics major :))) now I'm a CS major
+- ⚡ Fun fact: I was a physics major :))) now I'm a CE major
 
 <!---
 Alumina-deLina/Alumina-deLina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
